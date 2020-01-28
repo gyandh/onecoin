@@ -1,0 +1,2 @@
+# onecoin
+Cryptocurrency implementation
